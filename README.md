@@ -17,5 +17,5 @@ End-to-end sales analytics project featuring SQL data cleaning, KPI calculations
 - `coffee_shop_sales_dashboard.xlsx`
   Excel workbook with charts, pivot tables and dashboard
   
-- `Dashboard_preview.png`
+- `dashboard_preview.png`
   Image of dashboard
