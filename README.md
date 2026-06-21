@@ -18,4 +18,4 @@ End-to-end sales analytics project featuring SQL data cleaning, KPI calculations
   Excel workbook with charts, pivot tables and dashboard
   
 - `Dashboard_preview`
-  Image of Dashboard
+  Image of dashboard
